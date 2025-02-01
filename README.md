@@ -1,6 +1,6 @@
 # OCR Text Detection using EasyOCR in Google Colab
 
-This project demonstrates Optical Character Recognition (OCR) using **EasyOCR** in **Google Colab**. It processes images to extract text and visualize the detected text using OpenCV.
+This project demonstrates Optical Character Recognition (OCR) for static images using **EasyOCR** in **Google Colab**. It processes images to extract text and visualize the detected text using OpenCV.
 
 ## Features
 - Uses **EasyOCR** for text detection.
